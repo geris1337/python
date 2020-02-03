@@ -12,6 +12,7 @@ These can be installed by launching the prepare.sh script inside the project dir
 ```
 git clone https://github.com/geris1337/python.git
 cd python
+chmod +x prepare.sh
 ./prepare.sh
 ```
 ## Running the tests
