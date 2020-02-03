@@ -32,7 +32,6 @@ def prepare_data():
 	for i in data:
 		counter_tuple += tuple(str(item).split())
 		item+=1
-		print(i)
 
 	return counter_tuple
 
